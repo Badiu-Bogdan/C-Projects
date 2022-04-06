@@ -1,0 +1,23 @@
+# ninja log v5
+36	1748	6703327972372999	CMakeFiles/Lab_5_6_Pb_4.dir/Source/View/UserUi.cpp.obj	77cec6aece1e063b
+42	305	6701808866770901	CMakeFiles/Lab_5_6_Pb_4.dir/Header/Controller/UserController.cpp.obj	9b6aae00919cd0d5
+26	1644	6703327971312931	CMakeFiles/Lab_5_6_Pb_4.dir/Source/View/AdminUi.cpp.obj	1916acdacffbe5b9
+28	244	6702580213458570	CMakeFiles/Lab_5_6_Pb_4.dir/Source/Model/Repository.cpp.obj	520fb384352fda4f
+22	1656	6703327971422942	CMakeFiles/Lab_5_6_Pb_4.dir/Source/Model/Tutorial.cpp.obj	34391d4bc1eb69dc
+6	1626	6703327971132911	CMakeFiles/Lab_5_6_Pb_4.dir/main.cpp.obj	b02d5004db9624c
+30	1778	6703327972683030	CMakeFiles/Lab_5_6_Pb_4.dir/Source/Controller/AdminController.cpp.obj	2ab4ad0ce53cd154
+1822	2390	6703327978766118	Lab_5_6_Pb_4.exe	eccdde7ff73f0d95
+44	1821	6703327973113027	CMakeFiles/Lab_5_6_Pb_4.dir/Source/Controller/UserController.cpp.obj	b8fb1acdefe59564
+1	17359	6703343888071169	_deps/googletest-build/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.obj	737f82b53efb0903
+17363	20759	6703343922257449	lib/libgtestd.a	df121ab21809481
+6	142	6703344106933479	CMakeFiles/Lab_5_6_Pb_4.dir/GoogleTest/TestModel/TestTutorial.cpp.obj	b5b3b16dd703f2e
+143	518	6703344110563728	Lab_5_6_Pb_4.exe	e61cf7b5ab239ee8
+21	3793	6703351838271222	CMakeFiles/Lab_5_6_Pb_4.dir/main.cpp.obj	b02d5004db9624c
+72	4117	6703351841677123	CMakeFiles/Lab_5_6_Pb_4.dir/Source/View/UserUi.cpp.obj	77cec6aece1e063b
+4117	4771	6703351848146059	Lab_5_6_Pb_4.exe	e61cf7b5ab239ee8
+5	978	6703353666253869	CMakeFiles/Lab_5_6_Pb_4.dir/main.cpp.obj	b02d5004db9624c
+979	1217	6703353668584048	Lab_5_6_Pb_4.exe	e61cf7b5ab239ee8
+7	1931	6703355118267164	CMakeFiles/Lab_5_6_Pb_4.dir/Source/Controller/UserController.cpp.obj	b8fb1acdefe59564
+1932	2286	6703355121844135	Lab_5_6_Pb_4.exe	e61cf7b5ab239ee8
+6	491	6703394569075403	CMakeFiles/Lab_5_6_Pb_4.dir/GoogleTest/TestModel/TestTutorial.cpp.obj	b5b3b16dd703f2e
+491	1170	6703394575819853	Lab_5_6_Pb_4.exe	e61cf7b5ab239ee8
